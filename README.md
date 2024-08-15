@@ -32,6 +32,7 @@ I build PCs as a hobby and earn good cash from it, which is how I'm usually able
 > `RTX 2060`
 
 > `5tb Of storage` - shit load of drives that I took from old customer's PCs with consent and a written agreement to delete everything on their disks and literally infront of them (Wipe with zeroes, not quick erase)
+
 > `Fifine K688 Podcasting Microphone`
 
 > `Logitech Brio 4K Stream`
