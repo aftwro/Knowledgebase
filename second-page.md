@@ -1,3 +1,3 @@
-# Example Second Page
+# About Me
 
-This is an example second page that will appear in the Docsify Sidebar.
+Hello there! There's so much more to explore on thi..........................
