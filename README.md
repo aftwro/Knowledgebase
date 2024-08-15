@@ -1,31 +1,60 @@
-# Docsify Template
+# Howdy there! 🤠
 
-> A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
 
-## Site Setup
+This is a of cool things and guides that may make you eat your fingers after fully consuming your popcorn reading this documentation.
 
-### Static Webserver
-Upload these template files to any static web server. The file `.nojekyll` is only required if hosting the site on GitHub Pages and otherwise can be removed.
+Sure, it's empty here, but there's more on the way, This is going to be updated with content I find interesting, such as vulnerabilities, Opinions, and anouncements about projects. 
+Whenever I start a new project, I list it here, usually explaining what it is, and if it is a public project, such as a Minecraft server, or a hosting group, It'll get it's own page, Elaborating how to be a part of it, What's it about, or literally just anouncing the project if it's private.
 
-### GitHub Pages
 
-#### Hosting Site
+These pages are usually updated with "Diaries" such as hardware hacking adventures, tips, and other cool stuff and links / resources I use on a daily basis.
 
-To host this template on GitHub Pages do the following:  
 
-1. Log into GitHub if you have not done so already
-2. Tap the **Use this template** button in the upper-right of this GitHub Repository and choose **Create a new repository**
-3. Enter a name for your new Repository and then tap the **Create repository** button
-4. Once your new Repostitory is created go to **Settings**, then select **Pages** from the left-hand sidebar, and under **Branch** choose **main** and then tap the **Save** button
-5. Wait a minute or two and refresh the same **Pages** page - once your site is ready a message will be displayed at the top of the screen along with a site link and a **Visit site** button
+Got something want me to write up on with my horrible writing skills? Sure! You can always reach out to me at `mail@aftwr.xyz`
+-# If that doesn't work, try aftwr@proton.me
 
-#### Editing Content
 
-How about editing the content of your new Docsify site on GitHub Pages? View the Markdown page you want to edit (for example, **README.md**) and tap the **Pencil Icon**, then save any changes by tapping the green **Commit changes...** button. In just a few moments the Docsify site will be automatically updated to reflect those changes.
+# Who am I? 🤺
 
-### Viewing Locally 
-Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo folder to serve run locally.
 
-## Docsify Documentation
+I'm a hardware tinkerer with Electrical and HVAC skills, I break a-da computah and get electrocuted by my own inventions, I mess with electricity and own a whole workshop where I invent and mess with things, I also own an Ender 3 V2 3D Printer, and of course, the usual ender behavior of it breaking down every day.
 
-To learn more about using Docsify, visit https://docsify.js.org.
+I build PCs as a hobby and earn good cash from it, which is how I'm usually able to afford my *smol* spending habits, I might be addicted or might not be addicted to online shopping, who knows?! that is up to you to decide.
+
+# Equipment? 👩‍🔧
+
+### Workstation:
+
+> `i5 12400F`
+
+> `32GB of DDR4 3200MT/s`
+
+> `RTX 2060`
+
+> `5tb Of storage` - shit load of drives that I took from old customer's PCs with consent and a written agreement to delete everything on their disks and literally infront of them (Wipe with zeroes, not quick erase)
+> `Fifine K688 Podcasting Microphone`
+
+> `Logitech Brio 4K Stream`
+
+> `HyperX Cloud Alpha S`
+
+> `KZ ZSN` IEMs
+
+### Electrical Workshop:
+
+> `Owon SPM6103` Lab Bench PSU
+
+> `Quick T12` soldering station
+
+> `High quality rosin core solder` I stole from electrical class because german solder is too expensive.
+
+> `Creality Space Pi` Filament Dryer
+
+> `Ender 3 V2 3D Printer` that always breaks down (As usual, it's an ender!)
+
+> `Brother PTE-110` Label Maker
+
+
+### Misc:
+
+> `Raspberry Pi 4b 8GB`
