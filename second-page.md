@@ -1,3 +1,5 @@
 # About Me
 
-Hello there! There's so much more to explore on thi..........................
+Coming Soon:
+
+# Jet fan build details
