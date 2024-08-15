@@ -1,7 +1,7 @@
 # Howdy there! 🤠
 
 
-This is a of cool things and guides that may make you eat your fingers after fully consuming your popcorn reading this documentation.
+This is a collection of cool things and guides that may make you eat your fingers after fully consuming your popcorn reading this documentation.
 
 Sure, it's empty here, but there's more on the way, This is going to be updated with content I find interesting, such as vulnerabilities, Opinions, and anouncements about projects. 
 Whenever I start a new project, I list it here, usually explaining what it is, and if it is a public project, such as a Minecraft server, or a hosting group, It'll get it's own page, Elaborating how to be a part of it, What's it about, or literally just anouncing the project if it's private.
