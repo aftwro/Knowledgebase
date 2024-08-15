@@ -1,2 +1,2 @@
 - [Read Me](README)
-- [WindReaper 3000](jet_fan)
+- [WindReaper 3000](windreaper_3000)
