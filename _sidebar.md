@@ -1,2 +1,2 @@
 - [Read Me](README)
-- [Example Second Page](second-page)
+- [WindReaper 3000](jet_fan)
