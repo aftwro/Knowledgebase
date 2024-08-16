@@ -2,6 +2,5 @@
 - [WindReaper 3000](WindReaper3000/windreaper_3000)
 - [Tabbing Example](tabbing)
 -
-- [-----------------------------](-----------------------------)
 - **GET IN TOUCH**
 - aftwr on Discord
