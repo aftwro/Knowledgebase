@@ -17,7 +17,7 @@ If that doesn't work, try `aftwr@proton.me`
 # Who am I? 🤺
 
 
-I'm a hardware tinkerer with Electrical and HVAC skills, I break a-da computah and get electrocuted by my own inventions, I mess with electricity and own a whole workshop where I invent and mess with things, I also own an Ender 3 V2 3D Printer, and of course, the usual ender behavior of it breaking down every day.
+I'm a hardware tinkerer with Electrical and HVAC skills, I break a-da computah and get electrocuted by my own inventions, I mess with electricity and own a whole workshop where I invent and mess with things, I also own an Ender 3 V2 3D Printer, and of course, it has the usual ender behavior of it breaking down every day.
 
 I build PCs as a hobby and earn good cash from it, which is how I'm usually able to afford my *smol* spending habits, I might be addicted or might not be addicted to online shopping, who knows?! that is up to you to decide.
 
