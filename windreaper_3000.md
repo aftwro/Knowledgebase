@@ -6,4 +6,4 @@ Coming Soon:
 
 
 
-![logo](https://github.com/aftwro/Knowledgebase/blob/main/img/20240815_231157.jpg)
+![img](https://github.com/aftwro/Knowledgebase/blob/main/img/20240815_231157.jpg ':size=60')
