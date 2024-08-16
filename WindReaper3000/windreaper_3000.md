@@ -6,4 +6,4 @@ Coming Soon:
 
 
 
-![img](WindReaper3000.jpg ':size=60')
+![img](WindReaper3000.jpg)
