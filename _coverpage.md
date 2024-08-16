@@ -1,5 +1,3 @@
-![](_assets/coverpage.svg)
-
 # aftwr
 
 > A person who you really don't know.
@@ -9,3 +7,5 @@
 - Studies electrical engineering
 
 [Click me!](#howdy-there-🤠)
+
+![](_assets/coverpage.svg)
