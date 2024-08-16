@@ -1,5 +1,4 @@
 - [Who am I?](/)
-- [Who am I?](README)
 - [WindReaper 3000](WindReaper3000/windreaper_3000)
 - [Tabbing Example](tabbing)
 -
