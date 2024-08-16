@@ -8,4 +8,4 @@
 - Breaks computers
 - Studies electrical engineering
 
-[Get Started](#introduction)
+[Click me!](#introduction)
