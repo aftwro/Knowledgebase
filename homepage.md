@@ -11,7 +11,7 @@ These pages are usually updated with "Diaries" such as hardware hacking adventur
 
 
 Got something want me to write up on with my horrible writing skills? Sure! You can always reach out to me at `mail@aftwr.xyz`
--# If that doesn't work, try aftwr@proton.me
+If that doesn't work, try `aftwr@proton.me`
 
 
 # Who am I? 🤺
