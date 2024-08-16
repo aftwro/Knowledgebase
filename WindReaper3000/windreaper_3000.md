@@ -1,9 +1,3 @@
-# About Me
-
-Coming Soon:
-
-### Jet fan build details
-
-
+# Coming Soon:
 
 ![img](WindReaper3000.jpg)
