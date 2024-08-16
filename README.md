@@ -23,7 +23,7 @@ I build PCs as a hobby and earn good cash from it, which is how I'm usually able
 
 # Equipment? 👩‍🔧
 
-### Workstation:
+### Workstation 🖥
 
 > `i5 12400F`
 
@@ -41,7 +41,7 @@ I build PCs as a hobby and earn good cash from it, which is how I'm usually able
 
 > `KZ ZSN` IEMs
 
-### Electrical Workshop:
+### Electrical Workshop 💡
 
 > `Owon SPM6103` Lab Bench PSU
 
@@ -56,6 +56,6 @@ I build PCs as a hobby and earn good cash from it, which is how I'm usually able
 > `Brother PTE-110` Label Maker
 
 
-### Misc:
+### Misc 👾
 
 > `Raspberry Pi 4b 8GB`
