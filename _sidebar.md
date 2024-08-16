@@ -1,6 +1,7 @@
 - [Introduction](/)
 - [WindReaper 3000](WindReaper3000/windreaper_3000)
 - [Tabbing Example](tabbing)
+- [Device Teardowns](DeviceTeardowns/deviceteardowns.md)
 -
 - **GET IN TOUCH**
 - aftwr on Discord
