@@ -1,6 +1,6 @@
-![](img/coverpage.svg)
+![](_assets/coverpage.svg)
 
-# aftwr <small>3.5</small>
+# aftwr
 
 > A person who you really don't know.
 
