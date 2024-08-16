@@ -1,4 +1,4 @@
-![logo](img/coverpage.svg)
+![](img/coverpage.svg)
 
 # aftwr <small>3.5</small>
 
@@ -8,4 +8,4 @@
 - Breaks computers
 - Studies electrical engineering
 
-[Click me!](#introduction)
+[Click me!](introduction)
