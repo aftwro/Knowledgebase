@@ -10,8 +10,17 @@
   <title>aftwr's Projects</title>
   <meta name="description" content="A site with content presented by a dude you don't really know.">
 
-  <!-- Dark Theme (see https://docsify.js.org/#/themes) -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css" />
+  <!-- Themeable Light and Dark Themes -->
+  <link
+    rel="stylesheet"
+    media="(prefers-color-scheme: dark)"
+    href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
+  />
+  <link
+    rel="stylesheet"
+    media="(prefers-color-scheme: light)"
+    href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
+  />
 
 </head>
 
@@ -22,7 +31,6 @@
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
     window.$docsify = {
       name: 'aftwr&#39;s Projects',
-      themeColor: '#000000',
       // Sidebar Configuration
       auto2top: true,
       loadSidebar: true,
