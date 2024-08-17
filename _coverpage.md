@@ -1,6 +1,6 @@
 # aftwr
 
-![](./_assets/coverpage_bg.webp)
+
 
 > A person who you really don't know.
 
@@ -10,3 +10,4 @@
 
 [Click me!](#howdy-there-🤠)
 
+![](./_assets/coverpage_bg.webp)
