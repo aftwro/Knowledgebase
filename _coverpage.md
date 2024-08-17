@@ -7,3 +7,5 @@
 - Studies electrical engineering
 
 [Click me!](#howdy-there-🤠)
+
+![](./_assets/coverpage_bg.webp)
