@@ -1,5 +1,7 @@
 # aftwr
 
+![](./_assets/coverpage_bg.webp)
+
 > A person who you really don't know.
 
 - Servers Administrator
@@ -8,4 +10,3 @@
 
 [Click me!](#howdy-there-🤠)
 
-![](./_assets/coverpage_bg.webp)
