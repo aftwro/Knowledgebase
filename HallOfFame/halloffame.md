@@ -8,12 +8,12 @@
 
 ## Name: Mark
 My Comment: Oh my what!?
-![img](./mark-being-mark.png ':size=200')
+![img](./mark-being-mark.png)
 
 
 
 ## Name: Crazy Person
 
 My Comment: Uhhh yeah maybe? I don't think I would know that?!
-![img](./jas-being-crazy.png ':size=200')
+![img](./jas-being-crazy.png)
 
