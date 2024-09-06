@@ -6,3 +6,7 @@
 -
 - **GET IN TOUCH**
 - `aftwr` on Discord
+- `mail@aftwr.xyz`
+- aftwr@proton.me
+
+
