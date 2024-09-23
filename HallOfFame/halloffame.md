@@ -25,9 +25,3 @@
 ### Let me calculate the meaning of life first.
 
 ![img](./get-tf-out-of-here.png)
-
-## User: Fake Japanese Dude
-
-### WHAT DO YOU MEAN!?
-
-![img](./fake-japanese-dude.png)
