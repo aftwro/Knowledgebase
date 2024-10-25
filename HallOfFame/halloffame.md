@@ -1,27 +1,9 @@
-
-
 # Hall Of Fame 🏆
 
 
-#### Hilarious comments and messages from various people on the internet that barely know what they are talking about.
-
-
-## User: Mark
-
-### Oh my what!?
-
-![img](./mark-being-mark.png)
+Sorry mate! I'm still working on this.
 
 
 
-## User: Crazy Person
-
-### Uhhh yeah maybe? I don't think I would know that?!
-
-![img](./jas-being-crazy.png)
-
-## User: Out
-
-### Let me calculate the meaning of life first.
-
-![img](./get-tf-out-of-here.png)
+#### Under Construction, My hamsters are working on it!
+(Page being overhauled, May be deleted later. 🤦‍♂️)

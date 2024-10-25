@@ -1,4 +1,5 @@
 - [Introduction](/)
+- [(NEW!) The Parallel](parallel/parallel=mc.md)
 - [Hall Of Fame](HallOfFame/halloffame.md)
 - [WindReaper 3000](WindReaper3000/windreaper_3000)
 - [Device Teardowns](DeviceTeardowns/deviceteardowns.md)
