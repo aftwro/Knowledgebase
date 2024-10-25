@@ -1,8 +1,8 @@
 # The Parallel. ⛏
 
--# (26-58)
+###### (26-58)
 
--# To do, add image with shaders to preview the world, make sure to edit with Darktable (Yes, if you're reading this, I'm that much forgetful to the point I have to put this publicly on the site..)
+###### To do, add image with shaders to preview the world, make sure to edit with Darktable (Yes, if you're reading this, I'm that much forgetful to the point I have to put this publicly on the site..)
 
 ## Where Minecraft Returns to Its Roots
 
@@ -55,9 +55,6 @@ Due to our commitment to maintaining a close-knit community, we have a careful s
 ### Contact
 
 Ready to be part of something different? Reach out to me on Discord.
-
----
-
 *The Parallel: Where every player has a story, and every build has a purpose.*
 
 ## Server Rules
@@ -125,4 +122,4 @@ Our rules are simple but strict. We maintain high standards to ensure everyone h
 
 ---
 
-*By playing on The Parallel, you agree to follow these rules and accept any consequences for breaking them. We're strict because we care about maintaining a positive environment for everyone.*
+*By playing on The Parallel, Reading, and/or Watching this document, you acknowledge you agree to follow these rules and accept any consequences for breaking them. We're strict because we care about maintaining a positive environment for everyone.*
