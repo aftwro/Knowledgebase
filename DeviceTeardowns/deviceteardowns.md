@@ -32,7 +32,7 @@ Screws are under the feet.
 
 #### QR Code on Shielding
 ![img](teardownMedia/cm800_9in1/qr-code.jpg)
-<!--tabs:end -->
+<!--tabs:end-->
 
 
 
