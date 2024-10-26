@@ -4,7 +4,7 @@
 > When screwing things, always reverse the direction of the screwing till you hear a click or feel it once or twice, then you can start off screwing in the right direction, as you're now in the correct threads, and you won't ruin your threads, ***ESPEICALLY ON PLASTIC THREADS!!!!***
 
 ### UGREEN **CM800** 9 in 1 USB hub
-<!--tabs:start-->
+<!-- tabs:start -->
 #### Front
 ![img](teardownMedia/cm800_9in1/closed-front.jpg)
 
@@ -32,7 +32,7 @@ Screws are under the feet.
 
 #### QR Code on Shielding
 ![img](teardownMedia/cm800_9in1/qr-code.jpg)
-<!--tabs:end-->
+<!-- tabs:end -->
 
 
 
