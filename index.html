@@ -29,11 +29,11 @@
   <script>
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
     window.$docsify = {
-      name: 'aftwr&#39;s Projects',
+      name: 'aftwr\'s Projects',
       
       // Coverpage Configuration
       coverpage: true,
-
+ 
       // Sidebar Configuration
       auto2top: true,
       loadSidebar: true,
@@ -44,17 +44,34 @@
     
       // GA
       ga: 'G-MFPJF0P1W4',
-
+ 
       // Search Plugin Configuration
       search: {
         placeholder: 'Type to search',
         noData: 'No matches found.',
-
+ 
         // Headline depth, 1 - 6
         depth: 2,
+ 
       },
+ 
+      // Flexible Alerts Configuration 
+      'flexible-alerts': {
+        note: {
+          label: "Note!"
+        },
+        tip: {
+          label: "Tip!"
+        },
+        warning: {
+          label: "Warning!"
+        },
+        attention: {
+          label: "Attention!"
+        }
+      }
     };
-  </script>
+ </script>
 
                               <!-- Required -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
@@ -64,6 +81,7 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
   <script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
 
