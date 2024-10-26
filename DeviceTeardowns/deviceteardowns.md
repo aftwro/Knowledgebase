@@ -12,7 +12,7 @@
 ![img](teardownMedia/cm800_9in1/closed-back.jpg)
 
 #### Bottom
-![img](teardownMedia/bottom.jpg)
+![img](teardownMedia/cm800_9in1/bottom.jpg)
 
 #### Sides
 ![img](teardownMedia/cm800_9in1/sd-side.jpg)
