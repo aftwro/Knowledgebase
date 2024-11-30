@@ -1,6 +1,8 @@
 # The Parallel. ⛏
 
-![img](world.jpg)
+###### (26-58)
+
+###### To do, add image with shaders to preview the world, make sure to edit with Darktable (Yes, if you're reading this, I'm that much forgetful to the point I have to put this publicly on the site..)
 
 ## Where Minecraft Returns to Its Roots
 
@@ -30,18 +32,10 @@ Playing on The Parallel means becoming part of something special. We're looking 
 - Enjoy collaborative projects and shared adventures
 - Prefer quality over quantity when it comes to server features
 
-
-Due to our commitment to maintaining a close-knit community, we have a careful selection process:
-1. Apply - DM aftwr on Discord.
-1.2 *Incase you were invited by another player, get in contact with aftwr.*
-2. Join me for an interview.
-3. Share your Minecraft experience and building style.
-4. Meet some of our current members, get approved by our members.
-
 ### Technical Details
 
 - **Modpack Options**:
-  - Our custom-curated modpack (recommended, you will be provided with this pack if asked for it, it is fully open source on request) 
+  - Our custom-curated modpack (recommended)
   - Vanilla Minecraft client
   
 - **Server Features**:
@@ -49,6 +43,14 @@ Due to our commitment to maintaining a close-knit community, we have a careful s
   - Stable, dedicated hosting
   - Active but unintrusive administration
   - Basic quality-of-life enhancements
+
+### Application Process
+
+Due to our commitment to maintaining a close-knit community, we have a careful selection process:
+1. Apply - DM aftwr on Discord.
+2. Join me for an interview.
+3. Share your Minecraft experience and building style.
+4. Meet some of our current members, get approved by our members.
 
 ### Contact
 
@@ -69,11 +71,11 @@ Our rules are simple but strict. We maintain high standards to ensure everyone h
 - Treat all players with respect
 - No toxic behavior of any kind
 - No harassment, discrimination, or bullying
-- Keep chat language family-friendly, You're free to swear, but don't direct it at anybody.
+- Keep chat language family-friendly
 - Think before you act - use common sense
 
 ### 3. Player Interactions
-(These are not rules)
+
 #### Combat & PvP
 - PvP must be consensual
 - Both parties must agree in writing in the #misc channel
@@ -85,7 +87,7 @@ Our rules are simple but strict. We maintain high standards to ensure everyone h
 - Do not take other players' items without permission
 - Borrowing requires written consent in #misc channel
 - Format: "I *[player name]* agree to lend *[items]* to *[other player]*"
-- Return borrowed items in the same condition unless agreed upon
+- Return borrowed items in the same condition
 - Respect player builds and territories
 
 ### 4. Privacy & Security
@@ -120,4 +122,4 @@ Our rules are simple but strict. We maintain high standards to ensure everyone h
 
 ---
 
-*By playing on The Parallel, Reading, laying eyes on the pixels of which that display this webpage / document, and/or laying eyes on any sort of property that is owned by aftwr's Ventureworks "The Parallel", you acknowledge you agree to follow these rules and accept any consequences for breaking them.  We are committed to maintaining a positive environment for all users.*
+*By playing on The Parallel, Reading, and/or Watching this document, you acknowledge you agree to follow these rules and accept any consequences for breaking them. We're strict because we care about maintaining a positive environment for everyone.*
