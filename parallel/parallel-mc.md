@@ -16,6 +16,9 @@ The Parallel isn't just another Minecraft server – it's a deliberate return to
 
 - **Minimal Plugin Philosophy**: We've stripped away the unnecessary complexities that plague many servers. Our carefully selected quality-of-life plugins enhance rather than overshadow the vanilla Minecraft experience.
 
+- **Customized world Generation**: Get ready for the next generation of world generation! Unmatched visual quality and breathtakingly realistic patterns will push the limits of what is possible in Minecraft. You're going to be blown away by this experience, almost unimaginable, and you will hardly believe that this is still Minecraft.
+
+
 - **Curated Experience**: 
   - Custom world seed chosen for its unique and interesting features
   - Balanced gameplay that encourages exploration and creativity
